@@ -1,8 +1,8 @@
 import TodoList from './components/TodoList';
 
-export default function Home() {
+export default function TodoListPage() {
   return (
-    <main style={{ padding: '2rem' }}>
+    <main>
       <TodoList />
     </main>
   );

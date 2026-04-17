@@ -6,6 +6,6 @@ const TodoListPage = () => {
       <TodoList />
     </main>
   );
-}
+};
 
-export default TodoListPage
+export default TodoListPage;

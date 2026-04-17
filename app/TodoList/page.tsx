@@ -1,9 +1,11 @@
 import TodoList from './components/TodoList';
 
-export default function TodoListPage() {
+const TodoListPage = () => {
   return (
     <main>
       <TodoList />
     </main>
   );
 }
+
+export default TodoListPage

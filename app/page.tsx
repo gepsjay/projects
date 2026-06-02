@@ -20,6 +20,11 @@ export default function Home() {
         className="px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white text-lg font-bold rounded-xl shadow-lg shadow-blue-500/30 transition-all hover:-translate-y-1 active:scale-95 mb-4">
         View Calculator App
       </Link>
+      <Link
+        href="/Login"
+        className="px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white text-lg font-bold rounded-xl shadow-lg shadow-blue-500/30 transition-all hover:-translate-y-1 active:scale-95 mb-4">
+        Login UI
+      </Link>
     </div>
   )
 }
